@@ -7,7 +7,7 @@ This repository contains analysis scripts used for Dynamic Causal Modelling (DCM
 ## Key Modifications
 Customized F-contrasts to identify condition-relevant activation
 
-An optimized ROI selection approach based on group-level voxel-wise peak coverage, designed to improve inter-subject consistency
+An optimized ROI definition strategy that selects the sphere center maximizing individual activation peak coverage within predefined anatomical ranges.
 
 Design of B matrix input variables to model condition-specific modulatory effects
 
